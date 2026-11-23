@@ -35,3 +35,13 @@ ASCEND 2.2 reward feedback update:
 - Task completions play a short ascending chime. Completing the day plays a longer celebration flourish.
 - Settings includes a Preview Reward Sound button. On iPhone, tap Preview once to allow Safari to initialise audio.
 - Haptics remain best-effort: iOS Safari/Home Screen PWAs do not expose a reliable public Taptic Engine API.
+
+
+ASCEND 2.3 - GURU'S GRACE
+- Adds a dedicated sixth navigation space named Guru's Grace.
+- Includes a daily original contemplation prompt (not presented as a Sadhguru quotation).
+- Save teachings, topic, source and personal reflections in a local wisdom library.
+- Saved entries stay in the existing ASCEND local data and are included in export/import backups.
+- Includes a link to the official Isha/Sadhguru website.
+- No XP, streaks or completion pressure in this section.
+- Existing app data is preserved because the local storage key remains unchanged.
