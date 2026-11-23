@@ -29,3 +29,9 @@ DATA AND PRIVACY
 Your data is stored locally in the browser/app on this device. It does not automatically sync to your computer or another phone. Export backups regularly. The Home Screen web app may have a separate storage space from the Safari tab, so export/import if moving data between contexts.
 
 This is a functional personal-use PWA starter. It does not yet include cloud sync, account login, background scheduled reminders, or native iOS haptic integration. A true native iOS app would be required for dependable Core Haptics/Taptic Engine control.
+
+ASCEND 2.2 reward feedback update:
+- Reward sounds are enabled by default for existing users unless they explicitly changed the sound setting.
+- Task completions play a short ascending chime. Completing the day plays a longer celebration flourish.
+- Settings includes a Preview Reward Sound button. On iPhone, tap Preview once to allow Safari to initialise audio.
+- Haptics remain best-effort: iOS Safari/Home Screen PWAs do not expose a reliable public Taptic Engine API.
