@@ -1,6 +1,8 @@
-ASCEND LifeOS v2.0 - iPhone setup
+ASCEND LifeOS v2.1 - iPhone setup
 
 WHAT'S NEW
+- Liquid-glass inspired translucent surfaces, smoother transitions, animated flame glow and XP micro-feedback.
+- iPhone haptics are not reliably exposed to PWAs; best-effort native bridge support and browser vibration fallback are included where supported.
 - Five spaces: Today, Study, Sadhana, Progress, Settings.
 - Personalised starter study plan: Data Science & ML, Mathematics/Statistics, Power BI (including SalesData.xlsx dashboard milestone), Psychology, Communication.
 - Study focus timer with subject selection and logged sessions.
